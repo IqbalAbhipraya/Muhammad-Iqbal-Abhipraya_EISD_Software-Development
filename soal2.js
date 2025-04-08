@@ -1,3 +1,4 @@
+//soal 2 tentang deteksi kata itu palindrom atau tidak 
 function palindromDetector (word) {
     word = word.toLowerCase();
     let wordArray = word.split('');

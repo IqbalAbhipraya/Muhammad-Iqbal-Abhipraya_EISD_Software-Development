@@ -1,8 +1,7 @@
+//soal 1 tentang mencari min, max, dan average
 function minMaxAverage (arr) {
-    arr.sort((a, b) => a - b);
-
-    let min = arr[0];
-    let max = arr[arr.length - 1];
+    let min = Math.min(...arr);
+    let max = Math.max(...arr);
     let total = 0;
     
     for (let number of arr) {

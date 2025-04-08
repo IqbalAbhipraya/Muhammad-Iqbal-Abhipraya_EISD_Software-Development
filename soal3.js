@@ -1,3 +1,4 @@
+//soal 3 tentang mencari siapa yang mencari kue
 function searchThief(guestList, haveCakePhoto) {
     if (!guestList.includes(haveCakePhoto)) {
         return "Tidak bisa dicari pelakunya";

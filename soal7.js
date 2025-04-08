@@ -1,3 +1,4 @@
+//soal 7 tentang meng decrypt kalimat
 function decryptMessage(chat) {
     let chatArray = chat.split('');
     for (let i = 0; i < chatArray.length; i++) {

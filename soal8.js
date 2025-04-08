@@ -1,3 +1,4 @@
+//soal 8 tentang memberikan barang recommended ke customer 
 const products = [
     {name: "TV", category: "elektronik", price: 1000},
     {name: "headphone", category: "elektronik", price: 200},

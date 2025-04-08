@@ -1,3 +1,4 @@
+//soal 9 tentang mencari siapa yang anak anak yang nakal
 function cariNackal(listName) {
     let totalMentioned = {};
     let nackal = [];

@@ -1,3 +1,4 @@
+//soal 6 tentang kalkulasi pajak makanan dan minuman
 const menus = {
     "Ayam Goreng Krispi": {type: "Makanan", price: 15000},
     "Ayam Puk Puk": {type: "Makanan", price: 13000},
