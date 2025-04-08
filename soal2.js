@@ -1,5 +1,5 @@
 function palindromDetector (word) {
-    let word = word.toLowerCase();
+    word = word.toLowerCase();
     let wordArray = word.split('');
     let reverseWord = wordArray.toReversed();
 
